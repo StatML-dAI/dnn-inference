@@ -1,6 +1,6 @@
 emoji==1.7.0
 hachibee_sphinx_theme==0.2.5
-keras==2.9.0
+keras==2.13.1
 matplotlib==3.5.2
 numpy==1.23.0
 pandas==1.4.3
